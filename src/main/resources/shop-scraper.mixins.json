@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "common": [
+    "shop-scraper.mixins.json"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
